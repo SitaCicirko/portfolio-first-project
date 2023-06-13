@@ -4,7 +4,7 @@ import Main from "./components/layout/Main/Main";
 
 function App() {
   return (
-    <div className="mx-auto bg-gray-600 flex flex-col w-1/3 h-screen">
+    <div className="mx-auto bg-auto bg-gray-600 flex flex-col w-1/3 h-screen">
       <NavBar />
       <Main />
       <Footer />
